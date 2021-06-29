@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="MbrolaTools35.exe" source="original">
+    <mtime>1541014404</mtime>
+    <size>1861868</size>
+    <md5>875ace5ecb9601cf2808a3faa5b51e64</md5>
+    <crc32>d6a246b2</crc32>
+    <sha1>5f284e5106cb3c65bdc970906a150529a66b6bf8</sha1>
+    <format>Windows Executable</format>
+  </file>
+  <file name="MbrolaTools35_archive.torrent" source="metadata">
+    <btih>321efefd644b6443897db802370596c07dcebca9</btih>
+    <mtime>1613514743</mtime>
+    <size>1692</size>
+    <md5>fd8cc91c7670c0a5deefa76679855791</md5>
+    <crc32>67d10635</crc32>
+    <sha1>71188dc522ac5de134de33680a403e9b0e1f4b2f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="MbrolaTools35_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3640cde4b4b2651159b641b0dfa53733</md5>
+  </file>
+  <file name="MbrolaTools35_meta.sqlite" source="original">
+    <mtime>1541014428</mtime>
+    <size>14336</size>
+    <md5>0875b4ac28b0a387c4a5de9acf97b763</md5>
+    <crc32>97def40d</crc32>
+    <sha1>0507f7359b844cc41cf911c73009c81d4be123d7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="MbrolaTools35_meta.xml" source="original">
+    <mtime>1613514742</mtime>
+    <size>1660</size>
+    <format>Metadata</format>
+    <md5>f6882d7e5ad125abbc194f197fa517a8</md5>
+    <crc32>8a534abe</crc32>
+    <sha1>8ece8e799c72854909db7e11810e3385607ef711</sha1>
+  </file>
+</files>

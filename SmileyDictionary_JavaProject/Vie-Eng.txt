@@ -1,0 +1,658 @@
+		This is the Vietnamese-English dictionary database of Smiley Dictionary
+a	a<br/>- it's a first word in Vietnamse alphabet
+á	á<br/>- it's a second word in Vietnamse alphabet
+á khẩu	á khẩu<br/>* noun<br/>- aphasia
+á hậu	á hậu<br/>* noun<br/>- runner-up (in the beauty contest)
+ác mộng	ác mộng<br/>* noun<br/>- nightmare
+ác ý	ác ý<br/>* noun<br/>- malice, malignity, ill will
+ai oán	ai oán<br/>* adj<br/>- plaintive
+am hiểu	am hiểu<br/>* verb<br/>- to have a thorough knowledge of, to be an expert in(at, on)
+ảm đạm	ảm đạm<br/>* adj<br/>- gloomy, dreary
+an toàn	an toàn<br/>* adj<br/>- safe
+an ủi	an ủi<br/>* verb<br/>- to comfort, to console
+an nghỉ	an nghỉ<br/>* verb<br/>- to rest in peace and quiet
+an nhàn	an nhàn<br/>- leisured, leisurely
+an ninh	an ninh<br/>* noun<br/>- security
+anh	anh<br/>* noun<br/>- he
+anh đào	anh đào<br/>* noun<br/>- cherry
+anh hùng	anh hùng<br/>* noun<br/>- hero
+anh ngữ	anh ngữ<br/>* noun<br/>- english
+anh tài	anh tài<br/>* noun<br/>- luminary, outstanding talent
+anh em	anh em<br/>* noun<br/>- brothers
+ảnh	ảnh<br/>* noun<br/>- image, photograph, picture
+ảnh hưởng	ảnh hưởng<br/>* noun<br/>- influence, effect, impact
+ánh sáng	ánh sáng<br/>* noun<br/>- light
+ao	ao<br/>* noun<br/>- pond
+ao hồ	ao hồ<br/>* noun<br/>- ponds and lakes
+áo choàng	áo choàng<br/>* noun<br/>- gown
+áo dài	áo dài<br/>* noun<br/>- flowing tunic, dress
+áo giáp	áo giáp<br/>* noun<br/>- armour
+áo khoác	áo khoác<br/>* noun<br/>- overcoat
+áo lót	áo lót<br/>* noun<br/>- vest, undervest, singlet
+áo mưa	áo mưa<br/>* noun<br/>- raincoat, mackintosh
+áo quần	áo quần<br/>* noun<br/>- clothes
+ào ạt	ào ạt<br/>* adj<br/>- impetuous, vehement
+ảo ảnh	ảo ảnh<br/>* noun<br/>- illusion, phantasm, phantom
+ảo não	ảo não<br/>* adj<br/>- doleful, pathetic, plaintive
+ảo thuật	ảo thuật<br/>* noun<br/>- legerdemain, prestidigitation
+áp bức	áp bức<br/>* verb<br/>- to oppress
+áp dụng	áp dụng<br/>* verb<br/>- to put into practice, to apply
+áp đảo	áp đảo<br/>* verb<br/>- to overcome, to overpower
+áp đặt	áp đặt<br/>* verb<br/>- to impose, to force on
+áp lực	áp lực<br/>* noun<br/>- pressure
+áp phích	áp phích<br/>* noun<br/>- poster, placard, bill
+áy náy	áy náy<br/>* adj<br/>- (feel) uneasy
+ắc quy	ắc quy<br/>* noun<br/>- battery
+ăn	ăn<br/>* verb<br/>- eat
+ăn ảnh	ăn ảnh photogenic
+ăn bám	ăn bám<br/>* verb<br/>- to sponge on, to live on
+ăn cắp	ăn cắp<br/>* verb<br/>- to steal, to filch
+ăn chay	ăn chay<br/>* verb<br/>- to keep a vegetarian diet
+ăn gian	ăn gian<br/>* verb<br/>- to cheat
+ăn cướp	ăn cướp<br/>* verb<br/>- to rob
+ăn diện	ăn diện<br/>* verb<br/>- to be stylish, to dress smartly
+ăn học	ăn học<br/>* verb<br/>- to study
+ăn năn	ăn năn<br/>* verb<br/>- to repent, to show repentance (remorse, penitence), to eat humble pie
+ăn kiêng	ăn kiêng<br/>* verb<br/>- to be on a diet
+ăn nói	ăn nói<br/>* verb<br/>- to speak, to say
+ăn mặc	ăn mặc<br/>* verb<br/>- to dress
+ăn mòn	ăn mòn<br/>* verb<br/>- to eat away, to corrode, to erode
+ăn mừng	ăn mừng<br/>* verb<br/>- to celebrate (with feasts and rejoicings)
+ăn quịt	ăn quịt<br/>* verb<br/>- to eat without paying, to evade paying
+ăn tạp	ăn tạp<br/>* verb<br/>- to gobble
+ăn tết	ăn tết<br/>* verb<br/>- to celebrate the new year
+ăn thử	ăn thử<br/>* verb<br/>- to sample food, to taste
+ăn tiệc	ăn tiệc<br/>* verb<br/>- to attend a banquet, to feast
+ăn tiền	ăn tiền<br/>* verb<br/>- to take bribes
+ăn trộm	ăn trộm<br/>* verb<br/>- to steal, to burgle
+ăn uống	ăn uống<br/>* verb<br/>- to eat and drink
+ăn vạ	ăn vạ<br/>* verb<br/>- to stage a sit-down (until one's debt is paid..)
+ăn vụng	ăn vụng<br/>* verb<br/>-to eat stealthily; to eat on the sly
+ăn xén	ăn xén<br/>* verb<br/>- to graft
+ăn xin	ăn xin<br/>* verb<br/>- to beg
+âm điệu	âm điệu<br/>* noun<br/>- tune, melody
+âm hưởng	âm hưởng<br/>* noun<br/>- sonority, harmony
+âm ỉ	âm ỉ<br/>* adj<br/>- smouldering, dull and lasting
+âm lịch	âm lịch<br/>* noun<br/>- lunar calendar, moon calendar
+âm luật	âm luật<br/>* noun<br/>- prosody
+âm lượng	âm lượng<br/>* noun<br/>- volume
+âm nhạc	âm nhạc<br/>* noun<br/>- music
+âm phủ	âm phủ<br/>* noun<br/>- hell, hades
+âm sắc	âm sắc<br/>* noun<br/>- timbre, tone-colour
+âm thanh	âm thanh<br/>* noun<br/>- sound
+âm thầm	âm thầm<br/>* adj<br/>- silent
+âm tiết	âm tiết<br/>* noun<br/>- syllable
+âm u	âm u<br/>* adj<br/>- gloomy, dreary, sombre
+âm vị	âm vị<br/>* noun<br/>- phoneme
+âm vị học	âm vị học<br/>* noun<br/>- phonology, phonemics
+ầm ĩ	ầm ĩ<br/>* adj<br/>- noisy, boisterous, strident, uproarious
+ẩm thấp	ẩm thấp<br/>* adj<br/>- humid, damp, dank
+ẩm thực	ẩm thực<br/>* verb<br/>- to eat and drink
+ấm áp	ấm áp<br/>* adj<br/>- cosy, warm
+ấm chén	ấm chén<br/>* noun<br/>- tea-set
+ấm cúng	ấm cúng<br/>* adj<br/>- snug, cosy
+ấm no	ấm no<br/>* adj<br/>- well off
+ấm ức	ấm ức<br/>* adj<br/>- full of pent-up anger, full of pent-up resentment
+ân hận	ân hận<br/>* verb<br/>- to feel regret, to feel regretfull, to repent
+ân huệ	ân huệ<br/>* noun<br/>- favour
+ân nhân	ân nhân<br/>* noun<br/>- benefactor, benefactress
+ân tình	ân tình<br/>* noun<br/>- deep feeling of gratitude
+ân xá	ân xá<br/>* verb<br/>- to amnesty, to grant amnesty
+ẩn cư	ẩn cư<br/>* verb<br/>- to seclude oneself from the world
+ẩn dụ	ẩn dụ<br/>* noun<br/>- metaphor
+ẩn náu	ẩn náu<br/>* verb<br/>- to lurk
+ẩn nấp	ẩn nấp<br/>* verb<br/>- to take cover
+ẩn ý	ẩn ý<br/>* noun<br/>- implication, hint
+ấn định	ấn định<br/>* verb<br/>- to define, to lay down
+ấn độ giáo	ấn độ giáo<br/>- hinduism
+ấn tượng	ấn tượng<br/>* noun<br/>- impression
+ấp ủ	ấp ủ<br/>* verb<br/>- to nurse, to nurture, to harbour, to cherish, to entertain
+ấp úng	ấp úng<br/>* verb<br/>- to hum and haw, to stammer
+âu châu	âu châu<br/>* noun<br/>- europe
+âu hoá	âu hoá<br/>* verb<br/>- to europeanize
+âu phục	âu phục<br/>* noun<br/>- european clothes, european suit
+âu sầu	âu sầu<br/>* adj<br/>- sad, melancholy
+âu yếm	âu yếm<br/>* verb<br/>- to caress, to fondle
+ẩu	ẩu<br/>* adj<br/>- careless, remiss, lax
+ẩu đả	ẩu đả<br/>* verb<br/>- to have a row, to have a dogfight
+ấu trĩ	ấu trĩ<br/>* adj<br/>- infantile, childish
+ấu trùng	ấu trùng<br/>* noun<br/>- larva
+ba	ba<br/>* noun<br/>- papa, daddy; three, third
+ba ba	ba ba<br/>* noun<br/>- trionychid turtle
+ba bị	ba bị<br/>* noun<br/>- bogey, bogy, bugbear, bugaboo
+ba chân bốn cẳng	ba chân bốn cẳng<br/>- at full spead, as fast as one's legs could carry one
+ba chìm bảy nổi	ba chìm bảy nổi<br/>- the ups and downs of life
+ba đào	ba đào<br/>* noun<br/>- big wave, ups and downs
+ba đầu sáu tay	ba đầu sáu tay<br/>- superhuman strength (abilitỵ..)
+ba gác	ba gác<br/>* noun<br/>- tricycle, trike
+ba gai	ba gai<br/>* adj<br/>- rowdy, unruly
+ba hoa	ba hoa<br/>* verb<br/>- to brag, to boast, to prate, to blabber
+ba láp	ba láp<br/>* adj<br/>- nonsensical, senseless
+ba lăng nhăng	ba lăng nhăng<br/>* adj<br/>- idle, worthless, meaningless, trashy
+ba lê	ba lê<br/>* noun<br/>- ballet
+ba lô	ba lô<br/>* noun<br/>- knapsack, kit-bag
+ba mươi	ba mươi<br/>* noun<br/>- the thirtieth day of the lunar month
+ba phải	 ba phải<br/>* verb<br/>- agreeing with everyone, without any opinion of one's own
+ba que	ba que<br/>* adj<br/>- deceitful, cheating, dishonest, tricky
+ba trợn	ba trợn<br/>* adj<br/>- unruly
+ba tư	ba tư<br/>* noun<br/>- (geography) pesia
+bà	bà<br/>* noun<br/>- grandmother; madam, lady
+bà chị	bà chị<br/>- one's elder sister
+bà chủ	bà chủ<br/>* noun<br/>- mistress
+bà con	bà con<br/>* noun<br/>- relative, relation
+bà cụ	bà cụ<br/>* noun<br/>- old lady; old woman
+bà đỡ	bà đỡ<br/>* noun<br/>- midwife
+bà hoàng	bà hoàng<br/>* noun<br/>- princess
+bà la môn	bà la môn<br/>- (religion) brahman
+bả	bả<br/>* noun<br/>- poisoned food; bait, lure
+bả vai	bả vai<br/>* noun<br/>- flat of the shoulder
+bá chủ	bá chủ<br/>* noun<br/>- suzerain, dominator
+bá hộ	bá hộ<br/>* noun<br/>- feudal honorary rank conferred on a village's notable or rich man; village rich man
+bá tánh	bá tánh<br/>* noun<br/>- the people, the population
+bá tước	bá tước<br/>* noun<br/>- earl, count
+bác	bác<br/>* noun<br/>- uncle, one's father's sister-in-law
+bác ái	bác ái<br/>* adj<br/>- humane
+bác bẻ	bác bẻ<br/>* verb<br/>- to criticize
+bác học	bác học<br/>* adj<br/>- scholarly, learned
+bác sĩ	bác sĩ<br/>* noun<br/>- doctor, physician
+bạc	bạc<br/>* noun<br/>- silver
+bạc bẽo	bạc bẽo<br/>* adj<br/>- ungrateful, thankless, unrewarding
+bạc đãi	bạc đãi<br/>* verb<br/>- to slight, to ill-treat
+bạc hà	bạc hà<br/>* noun<br/>- mint, peppermint
+bạc hạnh	bạc hạnh<br/>* adj<br/>- bad luck; misfortune
+bạc màu	bạc màu<br/>* adj<br/>- impoverished, exhausted, overcropped
+bạc nghĩa	bạc nghĩa<br/>* adj<br/>- ungrateful; thankless
+bạc nhược	bạc nhược<br/>* adj<br/>- feeble
+bạc phận	bạc phận<br/>* adj<br/>- unhappy fate; misfortune
+bạc tình	bạc tình<br/>- disloyal, unfaithful in love
+bách hoá	bách hoá<br/>* noun<br/>- all kinds of goods
+bách hợp	bách hợp<br/>* noun<br/>- lily
+bách khoa	bách khoa<br/>* adj<br/>- encyclopaedic; polytechnic
+bách niên giai lão	bách niên giai lão<br/>- to live together one hundred years old
+bạch	bạch<br/>* adj<br/>- white
+bạch cầu	bạch cầu<br/>* noun<br/>- leucocyte
+bạch dương	bạch dương<br/>* noun<br/>- birch, birch-tree
+bạch kim	bạch kim<br/>* noun<br/>- platinum
+bạch phiến	bạch phiến<br/>* noun<br/>- heroin
+bạch tạng	bạch tạng<br/>* noun<br/>- albinism
+bạch tuộc	bạch tuộc<br/>* noun<br/>- poulp, poulpe
+bạch tuyết	bạch tuyết<br/>* noun<br/>- white snow
+bài	bài<br/>* noun<br/>- card, card-game; lesson
+bài báo	bài báo<br/>* noun<br/>- article
+bài binh bố trận	bài binh bố trận<br/>* verb<br/>- to array troops, to dispose troops in battle formation
+bài bình luận	bài bình luận<br/>* noun<br/>- commentary
+bài ca	bài ca<br/>* noun<br/>- song, hymn
+bài diễn văn	bài diễn văn<br/>* noun<br/>- speech
+bài giải	bài giải<br/>- key, solution
+bài hát	bài hát<br/>* noun<br/>- song
+bài học	bài học<br/>* noun<br/>- lesson
+bài khoá	bài khoá<br/>* noun<br/>- text
+bài làm	bài làm<br/>* noun<br/>- task, exercise, theme
+bài luận	bài luận<br/>* noun<br/>- essay; composition
+bài tập	bài tập<br/>* noun<br/>- exercise
+bài thơ	bài thơ<br/>* noun<br/>- poem
+bài tiết	bài tiết<br/>* verb<br/>- to excrete
+bài trí	bài trí<br/>* verb<br/>- to dispose, to arrange, to decorate
+bài trừ	bài trừ<br/>* verb<br/>- to abolish, to eradicate
+bài vị	bài vị<br/>* noun<br/>- ancestral tablet
+bài xích	bài xích<br/>* verb<br/>- to boycott, to ostracise
+bài xuất	bài xuất<br/>* verb<br/>- to excrete, to eliminate
+bải hoải	bải hoải<br/>* adj<br/>- limp with weariness, drooping from exhaustion
+bãi biển	bãi biển<br/>* noun<br/>- beach
+bãi bỏ	bãi bỏ<br/>* verb<br/>- to abrogate, to declare null and void
+bãi chức	bãi chức<br/>* verb<br/>- to dismiss, to relieve of office
+bãi công	bãi công<br/>* noun<br/>- strike
+bãi tha ma	bãi tha ma<br/>* noun<br/>- cematary; churchgard; burial ground
+bái	bái<br/>* verb<br/>- to kotow; to bow; to salute
+bái phục	bái phục<br/>* verb<br/>- to admire; to bow in admiration
+bại	bại<br/>* adj<br/>- paralysed, crippled
+bại binh	bại binh<br/>* noun<br/>- routed troops
+bại hoại	bại hoại<br/>* adj<br/>- degenerate, corrupt
+bại liệt	bại liệt<br/>* adj<br/>- paralyzed, crippled
+bại lộ	bại lộ<br/>* verb<br/>- to come to light, to be revealed, to be out
+bại sản	bại sản<br/>* adj<br/>- ruined
+bại trận	bại trận<br/>* adj<br/>- defeated in war
+bám	bám<br/>* verb<br/>- to hang on to, to stick fast to
+ban công	ban công<br/>* noun<br/>- balcony
+ban đầu	ban đầu<br/>- at first; initial
+ban đêm	ban đêm<br/>- by night; in the night time
+ban hành	ban hành<br/>* verb<br/>- to promulgate, to enforce
+ban ơn	ban ơn<br/>* verb<br/>- to bestow favours, to grant a boon (a favour)
+ban phát	ban phát<br/>* verb<br/>- to distribute; to dispense
+ban phước	ban phước<br/>* verb<br/>- to bless
+ban tặng	ban tặng<br/>* verb<br/>- to award, to grant
+ban thưởng	ban thưởng<br/>* verb<br/>- to reward, to grant a reward to, to bestow a reward on
+bàn	bàn<br/>* noun<br/>- table
+bàn bạc	bàn bạc<br/>* verb<br/>- to discuss, to deliberate, to consult, to exchange views on
+bàn cãi	bàn cãi<br/>* verb<br/>- to argue, to debate
+bàn chải	bàn chải<br/>* noun<br/>- brush
+bàn chân	bàn chân<br/>* noun<br/>- foot
+bàn cờ	bàn cờ<br/>* noun<br/>- chessboard
+bàn đạp	bàn đạp<br/>* noun<br/>- stirrup, pedal, treadle
+bàn là	bàn là<br/>* noun<br/>- iron
+bàn luận	bàn luận<br/>* verb<br/>- to discuss
+bàn mổ	bàn mổ<br/>* noun<br/>- (medicine) operating table
+bàn phím	bàn phím<br/>* noun<br/>- keyboard
+bàn ra	bàn ra<br/>- dissuade from, talk somebody out of doing something
+bàn tán	bàn tán<br/>* verb<br/>- to discuss in a widespread and inconclusive way
+bàn tay	bàn tay<br/>* noun<br/>- hand
+bàn thờ	bàn thờ<br/>* noun<br/>- altar
+bàn tính	bàn tính<br/>* noun<br/>- abacus
+bản án	bản án<br/>* noun<br/>- judgment, sentence
+bản cáo trạng	bản cáo trạng<br/>* noun<br/>- charge sheet
+bản chất	bản chất<br/>* noun<br/>- essence, substance, nature
+bản địa	bản địa<br/>* adj<br/>- native, indigenous
+bản đồ	bản đồ<br/>* noun<br/>- map
+bản gốc	bản gốc<br/>- original
+bản kịch	bản kịch<br/>- play, drama
+bản làng	bản làng<br/>* noun<br/>- mountain hamlets and villages
+bản lãnh	bản lãnh<br/>* noun<br/>- capacity, ability, fundamental, stuff
+bản năng	bản năng<br/>* noun<br/>- instinct
+bản quyền	bản quyền<br/>* noun<br/>- copyright
+bản sao	bản sao<br/>* noun<br/>- copy, duplicate
+bản sắc	bản sắc<br/>* noun<br/>- colour, character
+bản thảo	bản thảo<br/>* noun<br/>- manuscript
+bản thân	bản thân<br/>* noun<br/>- self
+bản tóm tắt	bản tóm tắt<br/>* noun<br/>- summary; synopsis
+bản xứ	bản xứ<br/>* noun<br/>- (dùng phụ sau danh từ) indigenous country, native country
+bán	bán<br/>* verb<br/>- to sell
+bán cầu	bán cầu<br/>* noun<br/>- hemisphere
+bán dẫn	bán dẫn<br/>* adj<br/>- transistorized, semi-conducting
+bán đảo	bán đảo<br/>* noun<br/>- peninsula
+bán đứng	bán đứng<br/>* verb<br/>- to sell someone down the river
+bán kết	bán kết<br/>* noun<br/>- semi-final
+bán kính	bán kính<br/>* noun<br/>- radius
+bán thân	bán thân<br/>* noun<br/>- bust, half-length
+bán tín bán nghi	bán tín bán nghi<br/>* verb<br/>- to remain undecided; to be doubtful
+bán tự động	bán tự động<br/>* adj<br/>- semi-automatic
+bạn	bạn<br/>* noun<br/>- friend, fellow, comrade
+bạn đọc	bạn đọc<br/>* noun<br/>- reader
+bạn hàng	bạn hàng<br/>* noun<br/>- fellow trader
+bạn thân	bạn thân<br/>* noun<br/>- intimate friend, close friend, bosom friend
+bang	bang<br/>* noun<br/>- state
+bàng hoàng	bàng hoàng<br/>* adj<br/>- stunned, stupefied
+bàng quan	bàng quan<br/>* verb<br/>- to look on (with indifference)
+bàng quang	bàng quang<br/>* noun<br/>- bladder
+bảng	bảng<br/>* noun<br/>- board
+bảng danh dự	bảng danh dự<br/>* noun<br/>- honour list
+bảng đen	bảng đen<br/>* noun<br/>- blackboard
+báng bổ	báng bổ<br/>* verb<br/>- to use profanities towards, to profane
+bành trướng	bành trướng<br/>* verb<br/>- to expand, to spread
+bảnh bao	bảnh bao<br/>* adj<br/>- smart, spruce, well groomed
+bánh	bánh<br/>* noun<br/>- cake
+bánh bao	bánh bao<br/>* noun<br/>- dumpling
+bánh bò	bánh bò<br/>* noun<br/>- sponge cake
+bánh mì	bánh mì<br/>* noun<br/>- bread
+bánh nếp	bánh nếp<br/>* noun<br/>- glutinous rice cake (filled with green bean and lard)
+bánh phở	bánh phở<br/>* noun<br/>- rice noodle
+bánh quế	bánh quế<br/>* noun<br/>- waffle
+bánh quy	bánh quy<br/>* noun<br/>- biscuit
+bánh rán	bánh rán<br/>* noun<br/>- glutinous rice doughnut
+bao bì	bao bì<br/>* noun<br/>- wrapping, packing
+bao bọc	bao bọc<br/>* verb<br/>- to enclose
+bao dung	bao dung<br/>* adj<br/>- generous, magnanimous
+bao gồm	bao gồm<br/>* verb<br/>- to include, to embrace, to comprise
+bao la	bao la<br/>* adj<br/>- immense, infinite, limitless
+bao nhiêu	bao nhiêu<br/>- how much; how many
+bao quát	bao quát<br/>* verb<br/>- to embrace
+bao tử	bao tử<br/>* noun<br/>- stomach
+bao vây	bao vây<br/>* verb<br/>- to surround, to encircle, to blockade, to besiege, to lay a siege to
+bào chế	bào chế<br/>* verb<br/>- to prepare medicines, to make up medicines
+bào chữa	bào chữa<br/>* verb<br/>- to defend, to plead for, to act as counsel for
+bảo an	bảo an<br/>* verb<br/>- to maintain law and order, to ensure security
+bảo bối	bảo bối<br/>* noun<br/>- valuable thing
+bảo dưỡng	bảo dưỡng<br/>* verb<br/>- to care for, to look after
+bảo đảm	bảo đảm<br/>* verb<br/>- to ensure, to guarantee, to see to
+bảo hiểm	bảo hiểm<br/>* verb<br/>- to see to the safety
+bảo lãnh	bảo lãnh<br/>* verb<br/>- to act as guarantee for, to answer for, to be bail for
+bảo mật	bảo mật<br/>* verb<br/>- to keep state (one's organization's) secrets
+bảo mẫu	bảo mẫu<br/>* noun<br/>- kindergartener, governess
+bảo quản	bảo quản<br/>* verb<br/>- to maintain, to keep in good repair, to preserve, to keep in good
+bảo tàng	bảo tàng<br/>* verb<br/>- to preserve in a museum
+bảo tồn	bảo tồn<br/>* verb<br/>- to preserve
+bảo vệ	bảo vệ<br/>* verb<br/>- to defend, to protect, to preserve
+bão bùng	bão bùng<br/>* noun<br/>- storm, tempest
+báo	báo<br/>* noun<br/>- newspaper, magazine; panther
+báo cáo	báo cáo<br/>* verb<br/>- to report; to refer
+báo cáo	báo cáo<br/>* noun<br/>- report
+báo chí	báo chí<br/>* noun<br/>- newspapers and magazines, periodicals, press, fourth estate
+báo thức	báo thức<br/>* verb<br/>- to give the alarm (wake-up signal)
+bạo lực	bạo lực<br/>* noun<br/>- violence
+bạo ngược	bạo ngược<br/>* adj<br/>- wickedly cruel
+bát	bát<br/>* noun<br/>- bowl
+bát ngát	bát ngát<br/>* adj<br/>- vast, immense, limitless
+bạt đãi	bạt đãi<br/>* verb<br/>- to ill-treat; to sight; to maltreat
+bạt tai	bạt tai<br/>* verb<br/>- to box someone's ear
+báu vật	báu vật<br/>* noun<br/>- precious thing
+bay	bay<br/>* verb<br/>- to fly
+bày	bày<br/>* verb<br/>- to display, to show
+bày biện	bày biện<br/>* verb<br/>- to arrange
+bày tỏ	bày tỏ<br/>* verb<br/>- to make clear, to express
+bảy	bảy<br/>- (number) seven, seventh
+bắc	bắc<br/>* noun<br/>- north
+bắc bán cầu	bắc bán cầu<br/>* noun<br/>- northern hemisphere
+bắc cực	bắc cực<br/>* noun<br/>- north pole
+bắn	bắn<br/>* verb<br/>- to fire, to shoot, to let off
+băng	băng<br/>* noun<br/>- ice
+băng ca	băng ca<br/>* noun<br/>- stretcher
+băng giá	băng giá<br/>* noun<br/>- freeze, frost
+băng hà	băng hà<br/>* noun<br/>- glacier
+bằng cấp	bằng cấp<br/>* noun<br/>- diploma
+bằng chứng	bằng chứng<br/>* noun<br/>- evidence, proof
+bằng hữu	bằng hữu<br/>* noun<br/>- friends
+bằng lòng	bằng lòng<br/>* adj<br/>- satisfied, content, agreeable
+bắp	bắp<br/>* noun<br/>- maize, indian corn
+bắp cải	bắp cải<br/>* noun<br/>- cabbage
+bắp chân	bắp chân<br/>* noun<br/>- calf, gastrocnemius
+bắp đùi	bắp đùi<br/>* noun<br/>- thigh, vastus lateralis
+bắt buộc	bắt buộc<br/>* verb<br/>- to compel
+bắt chước	bắt chước<br/>* verb<br/>- to ape, to imitate servilely
+bắt cóc	bắt cóc<br/>* verb<br/>- to kidnap, to hijack
+bắt đầu	bắt đầu<br/>* verb<br/>- to start, to begin
+bắt nạt	bắt nạt<br/>* verb<br/>- to bully
+bẩm sinh	bẩm sinh<br/>* adj<br/>- innate, inborn
+bấm	bấm<br/>* verb<br/>- to press, to touch
+bần cùng	bần cùng<br/>* adj<br/>- destitude, abjectly poor
+bẩn	bẩn<br/>* adj<br/>- dirty, mean
+bất bình đẳng	bất bình đẳng<br/>* adj<br/>- unequal
+bất cẩn	bất cẩn<br/>* adj<br/>- careless
+bất hợp pháp	bất hợp pháp<br/>* adj<br/>- illegal, illicit, illegitimate
+bầu cử	bầu cử<br/>* noun<br/>- election, vote
+bé	bé<br/>* adj<br/>- small, little, tiny
+béo	béo<br/>* adj<br/>- fat
+bét	bét<br/>* adj<br/>- at the bottom of the scale, least, last, lowest, worst
+bề bộn	bề bộn<br/>* adj<br/>- jumbled, in a jumble
+bề mặt	bề mặt<br/>* noun<br/>- area, surface
+bế	bế<br/>* verb<br/>- to hold (in one's arms)
+bế quan tỏa cảng	bế quan tỏa cảng<br/>- (chính sách bế quan tỏa cảng) the closed-door policy
+bế tắc	bế tắc<br/>* adj<br/>- in an impasse, in a stalemate, at a standstill
+bền	bền<br/>* adj<br/>- strong, solid, fast, long-wearing
+bến đò	bến đò<br/>* noun<br/>- port; station
+bênh	bênh<br/>* verb<br/>- to prize up
+bênh vực	bênh vực<br/>* verb<br/>- to uphold (the cause of), to support, to defend, to champion
+bệnh	bệnh<br/>* noun<br/>- disease, illness, sickness
+bệnh nhân	bệnh nhân<br/>* noun<br/>- patient
+bếp	bếp<br/>* noun<br/>- cooking-stove, cooking range
+bêu riếu	bêu riếu<br/>* verb<br/>- to expose to shame, to expose to ridicule, to pillory
+bi kịch	bi kịch<br/>* noun<br/>- tragedy
+bi quan	bi quan<br/>* adj<br/>- pessimistic
+bí	bí<br/>* noun<br/>- pumpkin
+bí ẩn	bí ẩn<br/>* adj<br/>- enigmatic, mysterious
+bí thư	bí thư<br/>* noun<br/>- (communist) secretary
+bị thương	bị thương<br/>* adj<br/>- wounded
+bia	bia<br/>* noun<br/>- beer; ale
+bìa	bìa<br/>* noun<br/>- cover (of books)
+bịa	bịa<br/>* verb<br/>- to invent, to fabricate
+biên lai	biên lai<br/>* noun<br/>- receipt
+biên soạn	biên soạn<br/>* verb<br/>- to compile, to write
+biển	biển<br/>* noun<br/>- sea
+biến động	biến động<br/>* verb<br/>- to vary, to evolve, to change
+biểu tượng	biểu tượng<br/>* noun<br/>- symbol
+bình đẳng	bình đẳng<br/>* adj<br/>- equal
+bình luận	bình luận<br/>* verb<br/>- to comment on
+bình quân	bình quân<br/>* adj<br/>- average
+bình thường	bình thường<br/>* adj<br/>- ordinary, usual, normal, indifferent
+bình tĩnh	bình tĩnh<br/>* adj<br/>- calm, cool, unruffled, selfpossessed
+bình yên	bình yên<br/>* adj<br/>- safe and sound, in security and good health
+bỏ trốn	bỏ trốn<br/>* verb<br/>- to decamp; to bolt; to run away
+bom	bom<br/>* noun<br/>- bomb
+bon chen	bon chen<br/>* verb<br/>- to scramble
+bong bóng	bong bóng<br/>* noun<br/>- bladder
+bỏng	bỏng<br/>* adj<br/>- burned, scalded, burning, parching, scalding
+bố	bố<br/>* noun<br/>- father, papa, dad
+bố cục	bố cục<br/>* noun<br/>- arrangement, lay-out
+bộ lạc	bộ lạc<br/>* noun<br/>- tribe
+bộ phận	bộ phận<br/>* noun<br/>- part
+bộ nhớ	bộ nhớ<br/>* noun<br/>- memory (of a computer)
+bộ trưởng	bộ trưởng<br/>* noun<br/>- minister
+bộc lộ	bộc lộ<br/>* verb<br/>- to expose, to bare, to show
+bồi dưỡng	bồi dưỡng<br/>* verb<br/>- to feed up, to foster, to improve, to cultivate
+bồi thường	bồi thường<br/>* verb<br/>- to pay damages, to pay compensation for
+bổn phận	bổn phận<br/>* noun<br/>- duty, obligation
+bỗng nhiên	bỗng nhiên<br/>* adv<br/>- unexpectedly, all of a sudden
+bơi	bơi<br/>* verb<br/>- to swim
+bụi	bụi<br/>* noun<br/>- dust
+bùn	bùn<br/>* noun<br/>- mud
+bủn xỉn	bủn xỉn<br/>* adj<br/>- mean, stingy
+buổi	buổi<br/>* noun<br/>- spell, length of time, time, period, moment
+buổi chiều	buổi chiều<br/>- afternoon
+buổi sáng	buổi sáng<br/>- morning
+buổi tối	buổi tối<br/>- evening; in the evening
+buổi trưa	buổi trưa<br/>- noon, midday
+buồm	buồm<br/>* noun<br/>- sail
+buôn	buôn<br/>* verb<br/>- to sell, to trade
+buồn	buồn<br/>* adj<br/>- sad, melancholy, grieved
+buồn cười	buồn cười<br/>- funny
+buồn ngủ	buồn ngủ<br/>- feel sleepy
+buông	buông<br/>* verb<br/>- to let go, to let loose
+búp bê	búp bê<br/>* noun<br/>- doll; dolly
+buýt	buýt<br/>* noun<br/>- bus
+bướng	bướng<br/>* adj<br/>- obstinate, stubborn, self-willed
+bưu điện	bưu điện<br/>* noun<br/>- post and telegraphy
+ca dao	ca dao<br/>* noun<br/>- folk-song
+ca khúc	ca khúc<br/>* noun<br/>- song
+ca kịch	ca kịch<br/>* noun<br/>- opera, operetta
+ca ngợi	ca ngợi<br/>* verb<br/>- to sing the praise of, to extol
+ca sĩ	ca sĩ<br/>* noun<br/>- singer
+ca tụng	ca tụng<br/>* verb<br/>- to glorify, to extol
+cà chua	cà chua<br/>* noun<br/>- tomato
+cà khịa	cà khịa<br/>* verb<br/>- to pick a quarrel
+cà phê	cà phê<br/>* noun<br/>- coffee
+cà rem	cà rem<br/>* noun<br/>- ice-cream
+cà rốt	cà rốt<br/>* noun<br/>- carrot
+cà vạt	cà vạt<br/>* noun<br/>- tie; necktie
+cá	cá<br/>* noun<br/>- fish
+cá biệt	cá biệt<br/>* adj<br/>- particular
+cá chép	cá chép<br/>* noun<br/>- carp
+cá hộp	cá hộp<br/>* noun<br/>- canned fish; tinned fish
+cá kho	cá kho<br/>* noun<br/>- dried fish
+cá mập	cá mập<br/>* noun<br/>- shark
+cá nhân	cá nhân<br/>* noun<br/>- individual, personal
+cá sấu	cá sấu<br/>* noun<br/>- crocodile
+cá tính	cá tính<br/>* noun<br/>- personality
+các	các<br/>* adv<br/>- every, all
+cách chức	cách chức<br/>* verb<br/>- to dismiss; to fire; to relieve of one's function
+cách ly	cách ly<br/>* verb<br/>- to isolate
+cách mạng	cách mạng<br/>* noun<br/>- revolution
+cai quản	cai quản<br/>* verb<br/>- to manage
+cai trị	cai trị<br/>* verb<br/>- to rule
+cài	cài<br/>* verb<br/>- to pin, to fasten
+cải tạo	cải tạo<br/>* verb<br/>- to transform, to improve, to remould, to re-educate
+cải thiện	cải thiện<br/>* verb<br/>- to improve, to raise the standard of
+cải tiến	cải tiến<br/>* verb<br/>- to improve
+cải trang	cải trang<br/>* verb<br/>- to dress in disguise
+cãi	cãi<br/>* verb<br/>- to argue
+cãi vã	cãi vã<br/>* verb<br/>- to bicker, to squabble
+cam	cam<br/>* noun<br/>- orange
+cam chịu	cam chịu<br/>* verb<br/>- to reconcile; to be content with
+cam đoan	cam đoan<br/>* verb<br/>- to guarantee, to answer for
+cảm	cảm<br/>* verb<br/>- to catch a cold, to be ill (because of a sudden change in the weather, too much sun..)
+cảm động	cảm động<br/>* adj<br/>- to be moved
+cảm giác	cảm giác<br/>* noun<br/>- sensation, impression
+cảm hứng	cảm hứng<br/>* noun<br/>- inspiration
+cảm thấy	cảm thấy<br/>* verb<br/>- to feel
+cảm thông	cảm thông<br/>* verb<br/>- to sympathize with, to be understanding
+cảm thụ	cảm thụ<br/>* verb<br/>- to be sensitive
+cảm tình	cảm tình<br/>* noun<br/>- sympathy
+cảm tính	cảm tính<br/>* noun<br/>- feeling
+cảm xúc	cảm xúc<br/>* verb<br/>- to be affected by emotion
+cám dỗ	cám dỗ<br/>* verb<br/>- to seduce
+cảm ơn	cảm ơn<br/>- thanks
+cạm bẫy	cạm bẫy<br/>* noun<br/>- trap
+can đảm	can đảm<br/>* adj<br/>- courageous
+can hệ	can hệ<br/>* verb<br/>- to concern, to affect
+can thiệp	can thiệp<br/>* verb<br/>- to intervene, to interfere
+cản trở	cản trở<br/>* verb<br/>- to bar, to obstruct, to block
+cảng	cảng<br/>* noun<br/>- port, harbour
+cảnh	cảnh<br/>* noun<br/>- sight, scenery, landscape
+cảnh báo	cảnh báo<br/>* noun<br/>- alert; alarm
+cảnh cáo	cảnh cáo<br/>* verb<br/>- to warn, to serve a strong warning on
+cảnh giác	cảnh giác<br/>* verb<br/>- to be vigilant, to be watchful, to be on one's guard
+cảnh sát	cảnh sát<br/>* noun<br/>- policeman
+cánh	cánh<br/>* noun<br/>- wing
+cánh buồm	cánh buồm<br/>* noun<br/>- sail
+cánh đồng	cánh đồng<br/>* noun<br/>- field
+cánh cửa	cánh cửa<br/>* noun<br/>- door
+cánh tay	cánh tay<br/>* noun<br/>- arm, right arm, right hand
+cạnh	cạnh<br/>* noun<br/>- edge
+cạnh tranh	cạnh tranh<br/>* verb<br/>- to compete
+cao	cao<br/>* adj<br/>- high, tall, steep, towering
+cao cả	cao cả<br/>* adj<br/>- lofty, elevated
+cao cấp	cao cấp<br/>* adj<br/>- high-ranking, high-grade, high-class
+cao độ	cao độ<br/>* noun<br/>- pitch
+cao hứng	cao hứng<br/>* adj<br/>- greatly elated, highly inspired
+cao ly	cao ly<br/>* noun<br/>- (địa lý) korea
+cao ngạo	cao ngạo<br/>* adj<br/>- proud; arrogant
+cao nguyên	cao nguyên<br/>* noun<br/>- plateau
+cao su	cao su<br/>* noun<br/>- rubber
+cao tần	cao tần<br/>* adj<br/>- high-frequency
+cao thủ	cao thủ<br/>* noun<br/>- top-classed
+cáo trạng	cáo trạng<br/>* noun<br/>- indictment
+cạo	cạo<br/>* verb<br/>- to shave
+cát	cát<br/>* verb<br/>- sand
+cau có	cau có<br/>* verb<br/>- to scowl
+cau mày	cau mày<br/>* verb<br/>- to frown; to gather one's eyebrows
+càu nhàu	càu nhàu<br/>* verb<br/>- to grumble, to grunt, to growl
+cay	cay<br/>* adj<br/>- hot (like pepper)
+cay đắng	cay đắng<br/>- bitter
+cày	cày<br/>* noun<br/>- plough
+căm thù	căm thù<br/>* verb<br/>- to feel a vindictive hatred for
+cằm	cằm<br/>* noun<br/>- chin
+cắm	cắm<br/>* verb<br/>- to pitch, to set up, to plant, to fix
+căn bản	căn bản<br/>* noun<br/>- basis
+căn cước	căn cước<br/>* noun<br/>- identity
+căn dặn	căn dặn<br/>* verb<br/>- to recommend
+căn hộ	căn hộ<br/>* noun<br/>- flat, apartment
+cằn nhằn	cằn nhằn<br/>* verb<br/>- to grumble, to grunt
+cắn	cắn<br/>* verb<br/>- to bite
+cắn rứt	cắn rứt<br/>* verb<br/>- to worry, to harass, to sting
+cặn bã	cặn bã<br/>* noun<br/>- dregs
+cặn kẽ	cặn kẽ<br/>* adj<br/>- careful, detailed
+acăng thẳng	căng thẳng<br/>* adj<br/>- fully stretched, fully strained, tense
+cặp	cặp<br/>* noun<br/>- bag, case
+cắt	cắt<br/>* verb<br/>- to cut, to cut off
+câm	câm<br/>* adj<br/>- mute
+cầm	cầm<br/>* noun<br/>- lute-like instrument; musical instrument
+cầm đầu	cầm đầu<br/>* verb<br/>- to be the ringleader of
+cầm quyền	cầm quyền<br/>* verb<br/>- to hold power, to be in power
+cầm thú	cầm thú<br/>* noun<br/>- birds and animals, beasts
+cẩm tú	cẩm tú<br/>* noun<br/>- embroidered brocade; very beautiful landscape; very beautiful literature
+cấm	cấm<br/>* verb<br/>- to forbid, to prohibit, to ban
+cân	cân<br/>* noun<br/>- scale, balance
+cân bằng	cân bằng<br/>* noun<br/>- balance, equilibrium
+cân nhắc	cân nhắc<br/>* verb<br/>- to consider carefully, to weigh the pros and cons of
+cần	cần<br/>* verb<br/>- need, must, to want
+cần cù	cần cù<br/>* adj<br/>- laborious, industrious
+cẩn thẩn	cẩn thẩn<br/>* adj<br/>- careful; cautious; heedful
+cận	cận<br/>* adj<br/>- near, close
+cận đại	cận đại<br/>* noun<br/>- modern time
+cận nhiệt đới	cận nhiệt đới<br/>* noun<br/>- subtropical zone
+cận thị	cận thị<br/>* adj<br/>- short-sighted, myopic
+cấp	cấp<br/>* noun<br/>- rank, level, class, grade
+cấp cứu	cấp cứu<br/>* verb<br/>- to give first aid
+câu chuyện	câu chuyện<br/>* noun<br/>- story, tale
+câu đố	câu đố<br/>* noun<br/>- riddle
+câu hỏi	câu hỏi<br/>* noun<br/>- question; demand
+câu lạc bộ	câu lạc bộ<br/>* noun<br/>- club
+cầu	cầu<br/>* noun<br/>- bridge
+cầu chì	cầu chì<br/>* noun<br/>- fuse
+cầu lông	cầu lông<br/>* noun<br/>- badminton
+cầu thủ	cầu thủ<br/>* noun<br/>- player (of football..)
+cầu tiêu	cầu tiêu<br/>* noun<br/>- latrine, toilet
+cầu vồng	cầu vồng<br/>* noun<br/>- rainbow
+cẩu thả	cẩu thả<br/>* adj<br/>- careless
+cấu tạo	cấu tạo<br/>* verb<br/>- to compose, to design, to construct
+cấu trúc	cấu trúc<br/>* noun<br/>- structure
+cậu	cậu<br/>* noun<br/>- uncle, mother's brother
+cây	cây<br/>* noun<br/>- tree, plant
+cây bút	cây bút<br/>* noun<br/>- pen, writer
+cây dù	cây dù<br/>* noun<br/>- umbrella
+cấy	cấy<br/>* verb<br/>- to transplant
+cha	cha<br/>* noun<br/>- father, dad
+cha mẹ	cha mẹ<br/>* noun<br/>- parents
+chà đạp	chà đạp<br/>* verb<br/>- to trample on
+chà là	chà là<br/>* verb<br/>- date-palm
+chả	chả<br/>* noun<br/>- grilled chopped meat, grilled chopped fish, grilled chopped shrimp
+chán	chán<br/>* verb<br/>- to be satiated with, to be tired of
+chán nản	chán nản<br/>* adj<br/>- disheartened, dispirited
+chạng vạng	chạng vạng<br/>* noun<br/>- twilight, dusk
+chanh	chanh<br/>* noun<br/>- lemon
+chào	chào<br/>* verb<br/>- to greet, to salute
+chào đón	chào đón<br/>* verb<br/>- to welcome, to warmly greet
+cháo	cháo<br/>* noun<br/>- gruel, soup
+cháu	cháu<br/>* noun<br/>- grandchild, grandson, granddaughter
+cháu ngoại	cháu ngoại<br/>* noun<br/>- child of one's daughter, maternal grandchild
+chay	chay<br/>* adj<br/>- vegetarian
+chảy máu	chảy máu<br/>* verb<br/>- bleed
+chạy	chạy<br/>* verb<br/>- to run
+chắc chắn	chắc chắn<br/>* adj<br/>- reliable, reliably solid
+chăm chỉ	chăm chỉ<br/>* adj<br/>- assiduous, laborious
+chăm chú	chăm chú<br/>* adj<br/>- concentrating, with concentration
+chăm nom	chăm nom<br/>* verb<br/>- to care for
+chăn	chăn<br/>* noun<br/>- blanket
+chăn nuôi	chăn nuôi<br/>* verb<br/>- to breed, to raise
+chẵn	chẵn<br/>* adj<br/>- round, even
+chặn	chặn<br/>* verb<br/>- to block, to stop, to intercept
+chặn họng	chặn họng<br/>* verb<br/>- to muzzle, to impose silence on (somebody)
+chẳng ai	chẳng ai<br/>- nobody, none
+chẳng bao giờ	chẳng bao giờ<br/>- never
+chặt chẽ	chặt chẽ<br/>* adj<br/>- close
+châm biếm	châm biếm<br/>* verb<br/>- to satirize
+chấm	chấm<br/>* noun<br/>- dot, point
+chấm dứt	chấm dứt<br/>* verb<br/>- to bring to an end, to terminate, to end
+chấm phẩy	chấm phẩy<br/>- semi-colon
+chấm than	chấm than<br/>- exclamation mark
+chậm	chậm<br/>* adj<br/>- slow
+chân	chân<br/>* noun<br/>- foot, leg
+chân chính	chân chính<br/>* adj<br/>- true, genuine, authentic
+chân dung	chân dung<br/>* noun<br/>- portrait
+chân lý	chân lý<br/>* noun<br/>- truth
+chân thành	chân thành<br/>* adj<br/>- heartfelt; loyal; sincere
+chân thật	chân thật<br/>* adj<br/>- (nói về con người) frank, candid, truthful
+chân tình	chân tình<br/>* noun<br/>- utter sincerity, heartiness
+chân trời	chân trời<br/>* noun<br/>- horizon
+chân tướng	chân tướng<br/>* noun<br/>- true nature, cloven hoof
+chẩn đoán	chẩn đoán<br/>* verb<br/>- to diagnose, to make a diagnosis
+chấn thương	chấn thương<br/>* noun<br/>- trauma
+chấp hành	chấp hành<br/>* verb<br/>- to execute, to implement
+chấp nhận	chấp nhận<br/>* verb<br/>- to accept, to agree to
+chập chững	chập chững<br/>* adj<br/>- toddling
+chất độc	chất độc<br/>* noun<br/>- toxic, poison
+chất khí	chất khí<br/>* noun<br/>- gas
+chất liệu	chất liệu<br/>* noun<br/>- material
+chất lỏng	chất lỏng<br/>* noun<br/>- liquid
+chất lượng	chất lượng<br/>* noun<br/>- quality
+che giấu	che giấu<br/>* verb<br/>- to hide, to conceal, to shelter
+chè	chè<br/>* noun<br/>- tea
+chén	chén<br/>* noun<br/>- cup
+chê bai	chê bai<br/>* verb<br/>- to speak scornfully of, to disparage
+chế độ	chế độ<br/>* noun<br/> system, order, regime
+chế giễu	chế giễu<br/>* verb<br/>- to ridicule
+chế nhạo	chế nhạo<br/>* verb<br/>- to mock at
+chế phẩm	chế phẩm<br/>* verb<br/>- finished product
+chi tiết	chi tiết<br/>* noun<br/>- detail
+chi tiêu	chi tiêu<br/>* verb<br/>- to spend
+chỉ bảo	chỉ bảo<br/>* verb<br/>- to recommend, to advise
+chỉ huy	chỉ huy<br/>* verb<br/>- to command, to conduct, to direct
+chỉ trích	chỉ trích<br/>* verb<br/>- to criticize, to censure
+chí hướng	chí hướng<br/>* noun<br/>- sense of purpose
+chị	chị<br/>* noun<br/>- elder sister, first cousin (daughter of one's either parent's elder brother or sister)
+chị em	chị em<br/>* noun<br/>- sisters (young women fellow members of the same community)
+chia	chia<br/>* verb<br/>- to divide, to split, to distribute, to share
+chia lìa	chia lìa<br/>* verb<br/>- to part, to separate
+chia ly	chia ly<br/>* verb<br/>- to disunite; to dissociate
+chia sẻ	chia sẻ<br/>* verb<br/>- to share
+chia tay	chia tay<br/>* verb<br/>- to say good-bye
+chìa khóa	chìa khóa<br/>* noun<br/>- key
+chiêm bao	chiêm bao<br/>* verb<br/>- to dream, to see in a dream
+chiêm ngưỡng	chiêm ngưỡng<br/>* verb<br/>- to gaze with veneration
+chiêm tinh học	chiêm tinh học<br/>* noun<br/>- astrology
+chiến đấu	chiến đấu<br/>* verb<br/>- to fight, to combat, to struggle, to militate
+chiến hạm	chiến hạm<br/>* noun<br/>- warship
+chiến lược	chiến lược<br/>* noun<br/>- strategy
+chiến sĩ	chiến sĩ<br/>* noun<br/>- man, soldier
+chiến thắng	chiến thắng<br/>* verb<br/>- to win victory over, to triumph over
+chiến thuật	chiến thuật<br/>* noun<br/>- tactics
+chiến tranh	chiến tranh<br/>* noun<br/>- war, warfare
+chiến trường	chiến trường<br/>* noun<br/>- battlefield, theatre of war
+chiết khấu	chiết khấu<br/>* noun<br/>- discount
